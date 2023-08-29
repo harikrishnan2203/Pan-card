@@ -1,0 +1,23 @@
+span {
+    color: red;
+}
+
+* {
+    margin: 3px 1px 3px 1px;
+    padding: 0px;
+}
+
+table,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 0px;
+}
+h5 {
+    font-size: 13px;
+}
+.checkbox {
+    display: flex; 
+    border: 0px; 
+    justify-content: center;
+}
